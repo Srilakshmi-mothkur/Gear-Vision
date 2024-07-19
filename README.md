@@ -1,6 +1,6 @@
 # Gear Vision
 
-**Gear Vision** is a deep learning-based model designed for detecting and classifying car parts from images. This project includes data preprocessing, augmentation, model training, and real-time predictions.
+**Gear Vision** is a deep learning model for detecting and classifying various car parts, designed to assist firms in automating and optimizing parts identification and inventory management.
 
 ## Technologies Used
 
