@@ -21,7 +21,8 @@
 
 The model performs well, handling noisy images and providing accurate predictions for real-time images, making it suitable for applications where customers submit live images of car parts.
 
-![Description](live_images/brakeRotor.png)
+![image](https://github.com/user-attachments/assets/03c527b1-c40a-4d7c-b6f9-a47eedd7265c)
+
 
 ![image](https://github.com/user-attachments/assets/a666b260-5e5d-422c-a35f-f676842ffc53)
 
