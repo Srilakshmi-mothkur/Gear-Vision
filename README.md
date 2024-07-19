@@ -20,7 +20,13 @@
 ## Results
 
 The model performs well, handling noisy images and providing accurate predictions for real-time images, making it suitable for applications where customers submit live images of car parts.
-![image](https://github.com/user-attachments/assets/c40577e6-8cc9-4b0e-980f-8a517003d63f)![image](https://github.com/user-attachments/assets/123e7684-c657-41a0-99b8-0b8746221b8d)![image](https://github.com/user-attachments/assets/76153ff8-9b5b-4151-9f9e-5a5aef6baa5e)![image](https://github.com/user-attachments/assets/fdab70ad-34e6-4b61-8e21-7318a69e17a2)
+| ![Image 1](https://github.com/user-attachments/assets/c40577e6-8cc9-4b0e-980f-8a517003d63f) | ![Image 2](https://github.com/user-attachments/assets/123e7684-c657-41a0-99b8-0b8746221b8d) |
+|:--:|:--:|
+| **Radiator Hose** | **Brake Rotor** |
+
+| ![Image 3](https://github.com/user-attachments/assets/76153ff8-9b5b-4151-9f9e-5a5aef6baa5e) | ![Image 4](https://github.com/user-attachments/assets/fdab70ad-34e6-4b61-8e21-7318a69e17a2) |
+|:--:|:--:|
+| **Engine Block** | **Water Pump** |
 
 
 
