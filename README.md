@@ -21,7 +21,10 @@
 
 The model performs well, handling noisy images and providing accurate predictions for real-time images, making it suitable for applications where customers submit live images of car parts.
 
-![image](https://github.com/user-attachments/assets/a666b260-5e5d-422c-a35f-f676842ffc53)  ![image](https://github.com/user-attachments/assets/357ed51e-f3a5-4a41-b49f-7bd1622936a0) ![image](https://github.com/user-attachments/assets/99cc4de3-8141-4142-bd79-1bbe6d71d6ee)
+![image](https://github.com/user-attachments/assets/f6964f42-f9c8-4726-8dbb-d2c8ff5e1481)![image](https://github.com/user-attachments/assets/c40577e6-8cc9-4b0e-980f-8a517003d63f)![image](https://github.com/user-attachments/assets/123e7684-c657-41a0-99b8-0b8746221b8d)
+
+
+
 
 
 ## Future Improvements
