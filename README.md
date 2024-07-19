@@ -23,10 +23,9 @@ The model performs well, handling noisy images and providing accurate prediction
 
 ## Future Improvements
 
-1. **Real-Time API:** Develop an API for real-time image classification and inventory checks.
-2. **User Interface:** Create a web or mobile app for customers to upload images and get instant results.
-3. **Enhanced Processing:** Implement techniques to handle various image qualities and lighting conditions.
-4. **RAG Application:** Build a RAG system to provide contextual information and FAQs alongside image classification.
+1. **User Interface:** Create a web app for customers to upload images and get instant results.
+2. **Enhanced Processing:** Implement techniques to handle various image qualities and lighting conditions.
+3. **RAG Application:** Build a RAG system to provide contextual information and FAQs alongside image classification.
 
 These improvements will enhance customer interaction and streamline part identification and support.
 
